@@ -10,7 +10,7 @@
 + [Setup Aplikasi Vue.js Menggunakan Vue CLI dan Docker](https://rogojagadalit.medium.com/setup-aplikasi-vue-js-menggunakan-vue-cli-dan-docker-87fb73e478f2)
 
 ## :trophy: My Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rogojagad&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogojagad&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogojagad&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rogojagad&show_icons=true&theme=tokyonight)
 
 <!--
 **rogojagad/rogojagad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
