@@ -4,7 +4,7 @@
 ## :dog: About Me
 - :computer: I’m currently working at [Garasi.id](https://garasi.id/) as a Software Development Engineer (Backend)
 - 🌱 I’m currently learning VueJS and also NodeJS
-- ⚡ Fun fact: I watch movie, play video games and make memes
+- ⚡ Fun fact: I watch movie, play video games and make memes as entertainment
 
 ## :blue_book: My Tech Writings:
 + [Setup Aplikasi Vue.js Menggunakan Vue CLI dan Docker](https://rogojagadalit.medium.com/setup-aplikasi-vue-js-menggunakan-vue-cli-dan-docker-87fb73e478f2)
