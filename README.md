@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=rogojagad.rogojagad) [![Github](https://img.shields.io/github/followers/rogojagad)](https://github.com/rogojagad)
 
 ## :dog: About Me
-- :computer: I’m currently working at [Garasi.id](https://garasi.id/) as a Software Development Engineer (Backend)
+- :computer: I’m currently working at [DKatalis](https://dkatalis.co/) as a Software Engineer
 - 🌱 I’m currently learning VueJS and also NodeJS
 - ⚡ Fun fact: I watch movie, play video games and make memes as entertainment
 
