@@ -8,6 +8,7 @@
 
 ## :blue_book: My Tech Writings:
 + [Setup Aplikasi Vue.js Menggunakan Vue CLI dan Docker](https://rogojagadalit.medium.com/setup-aplikasi-vue-js-menggunakan-vue-cli-dan-docker-87fb73e478f2)
++ [Watermarker Bot Untuk Antisipasi Penyalahgunaan Foto Dokumen](https://rogojagadalit.medium.com/watermarker-bot-untuk-antisipasi-penyalahgunaan-foto-dokumen-62c87d6e8f9c)
 
 ## :trophy: My Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogojagad&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rogojagad&show_icons=true&theme=tokyonight)
