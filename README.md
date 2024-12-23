@@ -3,10 +3,10 @@
 
 ## :dog: About Me
 - :computer: I’m currently working at [DKatalis](https://dkatalis.co/) as a Software Engineer
-- 🌱 I’m currently learning VueJS and also NodeJS
-- ⚡ Fun fact: I watch movie, play video games and make memes as entertainment
 
 ## :blue_book: My Tech Writings:
++ [Conventional Commit: Communicate Your Code Changes to Human and Machine (Easily)](https://medium.com/@rogojagadalit/conventional-commit-communicate-your-code-changes-to-human-and-machine-easily-d9ed7f66bc59)
++ [Embracing The Pain of Your Financial Spending](https://medium.com/@rogojagadalit/embracing-the-pain-of-your-financial-spending-2bbe9bc42f8a)
 + [Setup Aplikasi Vue.js Menggunakan Vue CLI dan Docker](https://rogojagadalit.medium.com/setup-aplikasi-vue-js-menggunakan-vue-cli-dan-docker-87fb73e478f2)
 + [Watermarker Bot Untuk Antisipasi Penyalahgunaan Foto Dokumen](https://rogojagadalit.medium.com/watermarker-bot-untuk-antisipasi-penyalahgunaan-foto-dokumen-62c87d6e8f9c)
 
